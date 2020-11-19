@@ -1,3 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible playbooks for Valaxy Techn</h2>
-<h2> Glad to see you here!1118</h2>
+<h2> Time: 8:15 AM </h2>
